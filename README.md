@@ -1,7 +1,7 @@
 
 # NodeJsMr
 
-Reto Tecnico Backend con NodeJS y Sequelize, usando buenas practicas de desarrollo.
+Desarrollo Backend con NodeJS y Sequelize, usando buenas practicas de desarrollo.
 
 
 ## Documentación
